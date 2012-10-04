@@ -42,8 +42,8 @@ application:
         // The request will be redirected to App.net for authentication, so this
         // function will not be called.
       });
-    
-    app.get('/auth/appdotnet/callback', 
+
+    app.get('/auth/appdotnet/callback',
       passport.authenticate('appdotnet', { failureRedirect: '/login' }),
       function(req, res) {
         // Successful authentication, redirect home.
@@ -52,13 +52,13 @@ application:
 
 ## Credits
   - [Michael Owens](https://github.com/mowens)
-  - [Jen Fong-Adwen](https://github.com/ednapiranha)
-  
+  - [Jen Fong-Adwent](https://github.com/ednapiranha)
+
 ## Thanks
   - [Jared Hanson](https://github.com/jaredhanson)
   - [Dalton Caldwell](https://github.com/daltonc)
   - [The App.net Team](https://github.com/appdotnet)
-  
+
 ## License
 
 (The MIT License)
