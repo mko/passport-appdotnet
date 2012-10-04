@@ -52,6 +52,7 @@ application:
 
 ## Credits
   - [Michael Owens](https://github.com/mowens)
+  - [Jen Fong-Adwen](https://github.com/ednapiranha)
   
 ## Thanks
   - [Jared Hanson](https://github.com/jaredhanson)
