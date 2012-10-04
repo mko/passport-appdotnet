@@ -1,6 +1,6 @@
 {
   "name": "passport-appdotnet",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "App.net authentication strategy for Passport.",
   "author": "Michael Owens <mk@mowens.com> (http://mowens.com/)",
   "repository": {
