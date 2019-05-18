@@ -1,5 +1,7 @@
 # Passport-AppDotNet
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mko/passport-appdotnet.svg)](https://greenkeeper.io/)
+
 [Passport](https://github.com/jaredhanson/passport) strategy for authenticating
 with [App.net](https://alpha.app.net) using the OAuth 2.0 API.
 
